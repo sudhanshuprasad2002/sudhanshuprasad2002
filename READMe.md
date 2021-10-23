@@ -38,6 +38,16 @@
   </a>
 </p>
 <a href="https://github.com/sudhandhuprasad2002"><img src="https://activity-graph.herokuapp.com/graph?username=sudhanshuprasad2002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<p align="left">
+  <a href="https://github.com/sudhanshuprasad2002">
+    <img src="https://github-readme-stats.vercel.app/api?username=sudhanshuprasad2002&show_icons=true&theme=outrun" />
+  </a>
+</p>
+<p align="right">
+  <a href="https://github.com/sudhanshuprasad2002">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudhanshuprasad2002&repo=sudhanshuprasad2002&theme=outrun" />
+  </a>
+</p>
  
 <HR>                                                          
 
