@@ -43,11 +43,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=sudhanshuprasad2002&show_icons=true&theme=outrun" />
   </a>
 </p>
-<p align="right">
-  <a href="https://github.com/sudhanshuprasad2002">
+  <a align="right" href="https://github.com/sudhanshuprasad2002">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sudhanshuprasad2002&repo=sudhanshuprasad2002&theme=outrun" />
   </a>
-</p>
  
 <HR>                                                          
 
