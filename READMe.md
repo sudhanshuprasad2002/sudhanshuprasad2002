@@ -37,7 +37,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=sudhanshuprasad2002&theme=radical&stroke=0BDCDD" />
   </a>
 </p>
-<a href="https://github.com/sudhandhuprasad2002"><img src="https://activity-graph.herokuapp.com/graph?username=sudhanshuprasad2002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/sudhanshuprasad2002"><img src="https://activity-graph.herokuapp.com/graph?username=sudhanshuprasad2002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <p align="center">
   <a href="https://github.com/sudhanshuprasad2002">
     <img src="https://github-readme-stats.vercel.app/api?username=sudhanshuprasad2002&show_icons=true&theme=outrun" />
