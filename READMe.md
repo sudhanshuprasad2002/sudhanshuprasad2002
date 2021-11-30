@@ -4,7 +4,7 @@
 
 ## I'm just a Medical Student who just want to learn coding!!
 
-- 🔭 I love to code and here is my 1st Website 👉👉<a href="https://sudhanshu-prasad-coding.pages.dev/" target="_blank" > Click Me</a>.
+- 🔭 I love to code and here is my 1st Website 👉👉<a href="https://qxdworld.com/" target="_blank" > Click Me</a>.
 - 🌱 I’m currently learning python, HTML, CSS and Javascript
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to swim and play guitar.
